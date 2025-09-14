@@ -24,7 +24,7 @@
 🔗 Real-time chat platform with **user authentication, chat rooms, and message history**  
 
 
----
+
 
 ## <div align="left">🌐 Connect with Me</div>  
 
@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/NakshtraSulakhe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/027/395/710/small_2x/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="mailto:nakshtrasulakhe@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_(2020).svg/512px-Gmail_icon_(2020).svg.png?20221017173631" width="52" height="40" alt="gmail logo"  />
