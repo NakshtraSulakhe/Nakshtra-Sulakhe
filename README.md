@@ -5,7 +5,7 @@
 📚 Love tackling coding challenges, exploring frameworks, and building scalable applications.  
 
 
-## <div align="center"> 🚀 Featured Projects </div>  
+## <div align="left"> 🚀 Featured Projects </div>  
 
 📱 **Haritech Mobile Dialer App**  
 *React Native + Laravel Backend*  
@@ -22,7 +22,7 @@
 
 ---
 
-## <div align="center">🌐 Connect with Me</div>  
+## <div align="left">🌐 Connect with Me</div>  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nakshtra-sulakhe-3aa217238/" target="_blank">
@@ -41,7 +41,7 @@
 
 ---
 
-## <div align="center">💻 Tech Stack</div>  
+## <div align="=left">💻 Tech Stack</div>  
 
 ### <div align="center">🌐 Frontend</div>  
 <p align="center">
@@ -63,7 +63,7 @@
 
 ---
 
-## <div align="center">📊 GitHub Stats</div>  
+## <div align="left">📊 GitHub Stats</div>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NakshtraSulakhe&show_icons=true&theme=dark&hide_border=false&border_radius=10" height="180em"/>
@@ -76,7 +76,7 @@
 
 ---
 
-## <div align="center">🏆 Badges</div>  
+## <div align="left">🏆 Badges</div>  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NakshtraSulakhe&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
