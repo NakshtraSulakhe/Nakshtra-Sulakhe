@@ -78,7 +78,7 @@
 
 ## <div align="left">🏆 Badges</div>  
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=NakshtraSulakhe&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
