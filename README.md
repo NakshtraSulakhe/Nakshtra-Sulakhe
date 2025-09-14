@@ -11,7 +11,7 @@
 *React Native + Laravel Backend*  
 🔗 Created HariTech **Mobile App** with **React Native** using **Laravel API**  
 
-💻 **HariDialer Web App**         
+💻 **HariDialer Web App**                      
 *HTML,CSS,JS + Laravel Backend*
 🔗 Integrated **Web Dialer** with **HubSpot CRM** using **API integration**  
 
