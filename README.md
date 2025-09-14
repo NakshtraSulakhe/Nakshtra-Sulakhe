@@ -4,6 +4,22 @@
 🚀 Skilled in **Angular, .NET, Laravel, and SQL Server**, and continuously learning **Cloud + DSA**.  
 📚 Love tackling coding challenges, exploring frameworks, and building scalable applications.  
 
+
+## <div align="center"> 🚀 Featured Projects </div>  
+
+📱 **Haritech Mobile Dialer App**  
+*React Native + Laravel Backend*  
+🔗 Integrated **Web Dialer** with **HubSpot CRM** using **API integration**  
+
+👨‍💼 **HRMS (Human Resource Management System)**  
+*.NET Core MVC*  
+🔗 Built a complete HR management system with **employee, payroll, and leave management** modules  
+
+💬 **ChatRoom Application**  
+*.NET Core API + AngularJS*  
+🔗 Real-time chat platform with **user authentication, chat rooms, and message history**  
+
+
 ---
 
 ## <div align="center">🌐 Connect with Me</div>  
