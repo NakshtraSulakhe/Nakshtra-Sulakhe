@@ -17,7 +17,7 @@
 
 👨‍💼 **HRMS (Human Resource Management System)**  
 *.NET Core MVC*  
-🔗 Built a complete HR management system with **employee, payroll, and leave management** modules  
+🔗 Built a complete HR management system with **Recruitment, Employee, Payroll, and Leave Management** modules  
 
 💬 **ChatRoom Application**  
 *.NET Core API + AngularJS*  
