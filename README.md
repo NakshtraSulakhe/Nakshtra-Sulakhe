@@ -9,6 +9,9 @@
 
 📱 **Haritech Mobile Dialer App**  
 *React Native + Laravel Backend*  
+🔗 Created HariTech **Mobile App** with **React Native** using **Laravel API**  
+
+💻 **HariDialer Web App**
 🔗 Integrated **Web Dialer** with **HubSpot CRM** using **API integration**  
 
 👨‍💼 **HRMS (Human Resource Management System)**  
