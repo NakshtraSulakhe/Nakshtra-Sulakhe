@@ -5,26 +5,6 @@
 📚 Love tackling coding challenges, exploring frameworks, and building scalable applications.  
 
 
-## <div align="left"> 🚀 Featured Projects </div>  
-
-📱 **Haritech Mobile Dialer App**  
-*React Native + Laravel Backend*  
-🔗 Created HariTech **Mobile App** with **React Native** using **Laravel API**  
-
-💻 **HariDialer Web App**                      
-*HTML,CSS,JS + Laravel Backend*
-🔗 Integrated **Web Dialer** with **HubSpot CRM** using **API integration**  
-
-👨‍💼 **HRMS (Human Resource Management System)**  
-*.NET Core MVC*  
-🔗 Built a complete HR management system with **Recruitment, Employee, Payroll, and Leave Management** modules  
-
-💬 **ChatRoom Application**  
-*.NET Core API + AngularJS*  
-🔗 Real-time chat platform with **user authentication, chat rooms, and message history**  
-
-
-
 
 ## <div align="left">🌐 Connect with Me</div>  
 
@@ -64,6 +44,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio logo" />
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="Cursor logo" />
 </p>
+
+## <div align="left"> 🚀 Featured Projects </div>  
+
+📱 **Haritech Mobile Dialer App**  
+*React Native + Laravel Backend*  
+🔗 Created HariTech **Mobile App** with **React Native** using **Laravel API**  
+
+💻 **HariDialer Web App**                      
+*HTML,CSS,JS + Laravel Backend*
+🔗 Integrated **Web Dialer** with **HubSpot CRM** using **API integration**  
+
+👨‍💼 **HRMS (Human Resource Management System)**  
+*.NET Core MVC*  
+🔗 Built a complete HR management system with **Recruitment, Employee, Payroll, and Leave Management** modules  
+
+💬 **ChatRoom Application**  
+*.NET Core API + AngularJS*  
+🔗 Real-time chat platform with **user authentication, chat rooms, and message history**  
+
+
+
+
 
 ---
 
